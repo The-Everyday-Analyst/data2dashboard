@@ -1,4 +1,4 @@
-
+![Alt Text](images/The Everyday Analyst.mp4)
 <h1 align="left"> Data to Dashboard </h1>
 Resources to help the everyday analyst get data, clean &amp; prep the data, store it, &amp; visualize it. 
 
